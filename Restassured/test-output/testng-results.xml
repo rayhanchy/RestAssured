@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3863" started-at="2021-02-02T12:05:14 GMT" finished-at="2021-02-02T12:05:18 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3863" started-at="2021-02-02T12:05:14 GMT" finished-at="2021-02-02T12:05:18 GMT">
+      <class name="apiTest.GetTest">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:apiTest.GetTest@74650e52]" name="beforeclass" is-config="true" duration-ms="11" started-at="2021-02-02T12:05:14 GMT" finished-at="2021-02-02T12:05:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Getallemployees()[pri:0, instance:apiTest.GetTest@74650e52]" name="Getallemployees" duration-ms="2595" started-at="2021-02-02T12:05:14 GMT" finished-at="2021-02-02T12:05:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getallemployees -->
+        <test-method status="PASS" signature="getemployee1()[pri:0, instance:apiTest.GetTest@74650e52]" name="getemployee1" duration-ms="830" started-at="2021-02-02T12:05:17 GMT" finished-at="2021-02-02T12:05:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getemployee1 -->
+        <test-method status="PASS" signature="listofusers()[pri:0, instance:apiTest.GetTest@74650e52]" name="listofusers" duration-ms="383" started-at="2021-02-02T12:05:18 GMT" finished-at="2021-02-02T12:05:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listofusers -->
+        <test-method status="PASS" signature="afterclas()[pri:0, instance:apiTest.GetTest@74650e52]" name="afterclas" is-config="true" duration-ms="0" started-at="2021-02-02T12:05:18 GMT" finished-at="2021-02-02T12:05:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclas -->
+      </class> <!-- apiTest.GetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
